@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="214" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblEmergency" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblAddress2" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblEducation" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblSocialno" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblZip" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblFaxno" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblGender" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblPassport" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblCity" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblPhone" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDrivenumber" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblAddress1" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblTeleno" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblEmail" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDrivestate" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblNationality" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblState" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDob" linkSize="1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblLastname" linkSize="1" alignment="1" min="-2" pref="154" max="-2" attributes="0"/>
+                  <Component id="lblFirstname" linkSize="1" alignment="1" min="-2" pref="154" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="txtFirstname" linkSize="2" alignment="1" min="-2" pref="184" max="-2" attributes="0"/>
+                  <Component id="txtLastname" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtDob" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtNationality" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtGender" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtEmail" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtEducation" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtPhone" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtEmergency" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtPassport" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtDrivenumber" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtDrivestate" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtSocialno" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtAddress1" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtAddress2" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtCity" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtState" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtZip" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtTeleno" linkSize="2" alignment="1" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtFaxno" linkSize="2" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="140" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblTitle" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Component id="lblTitle" min="-2" pref="24" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="lblFirstname" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtFirstname" alignment="1" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblLastname" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtLastname" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblDob" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDob" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblNationality" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtNationality" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="txtGender" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblGender" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblEducation" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtEducation" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblPhone" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtPhone" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblEmergency" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtEmergency" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="txtPassport" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblPassport" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblDrivenumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDrivenumber" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblDrivestate" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDrivestate" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblSocialno" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtSocialno" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblAddress1" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtAddress1" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="txtAddress2" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblAddress2" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblCity" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtCity" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblState" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtState" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblZip" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtZip" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblTeleno" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtTeleno" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblFaxno" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtFaxno" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblTitle">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Helvetica Neue" size="18" style="0"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="View Person Profile"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblFirstname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="First Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtFirstname">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtFirstnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblLastname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Last Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLastname">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDob">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Date Of Birth"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDob">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblNationality">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nationality"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtNationality">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGender">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gender"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtGender">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtGenderActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEmail">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Email"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtEmail">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEducation">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Education Level"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtEducation">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPhone">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Phone"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtPhone">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtPhoneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEmergency">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Emergency Contact Phone"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtEmergency">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPassport">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Passport Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtPassport">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtPassportActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDrivenumber">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Drivers License Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDrivenumber">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDrivestate">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Drivers License State"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDrivestate">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSocialno">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Social Security Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtSocialno">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtSocialnoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblAddress1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address Line 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtAddress1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtAddress1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblAddress2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address Line 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtAddress2">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtAddress2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCity">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="City"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtCity">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblState">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="State"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtState">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtStateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblZip">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ZIP"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtZip">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtZipActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTeleno">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telephone Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtTeleno">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblFaxno">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fax Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtFaxno">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtFaxnoActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
